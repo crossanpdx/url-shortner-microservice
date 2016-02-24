@@ -1,0 +1,30 @@
+body {
+    background-color: #F39C12;
+}
+
+.well {
+    background-color: #E67E22;
+    color: #ffffff;
+    border-color: #E67E22;
+}
+
+.btn-submit {
+    border: 3px solid #ffffff;
+    background-color: #E67E22;
+    color: #ffffff;
+    font-weight: bold;
+}
+
+.btn-submit:hover {
+   background-color: #D35400;
+   color: #ffffff;
+   border: 3px solid #ffffff;
+}
+
+a {
+    color: #ffffff;
+}
+
+a:hover {
+    color: #D35400;
+}
